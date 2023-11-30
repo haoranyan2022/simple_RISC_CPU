@@ -1,0 +1,99 @@
+C:/Users/17980/Desktop/RISC_CPU/work/addr_decode.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/addr_decode.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module addr_decode
+
+Top level modules:
+	addr_decode
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/ROM.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/ROM.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/data_ctrl.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/data_ctrl.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module data_ctrl
+
+Top level modules:
+	data_ctrl
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/top_module.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/top_module.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module RISC_CPU
+
+Top level modules:
+	RISC_CPU
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/tb_clk_gen.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/tb_clk_gen.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module tb_clk_gen
+
+Top level modules:
+	tb_clk_gen
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/RAM.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/RAM.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/m_register.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/m_register.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/machine_ctrl.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/machine_ctrl.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module machine_ctrl
+
+Top level modules:
+	machine_ctrl
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/m_adr.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/m_adr.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module adr
+
+Top level modules:
+	adr
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/machine.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/machine.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module machine
+
+Top level modules:
+	machine
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/m_accum.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/m_accum.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module accum
+
+Top level modules:
+	accum
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/counter.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/counter.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/mclk_gen.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/mclk_gen.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module clk_gen
+
+Top level modules:
+	clk_gen
+
+} {} {}} C:/Users/17980/Desktop/RISC_CPU/work/m_alu_ena.v {1 {vlog -work work -vopt -stats=none C:/Users/17980/Desktop/RISC_CPU/work/m_alu_ena.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}
